@@ -1,0 +1,17 @@
+tipo;nome;preco;heroisPermitidos;ataque;ataqueEspecial;ataqueInstantaneo;vida;forca
+ArmaPrincipal;Excalibur;60;[Cavaleiro,Feiticeiro];25;35;0;0;0
+ArmaPrincipal;Faca Manteiga;5;[Cavaleiro];5;10;0;0;0
+ArmaPrincipal;Arco Velho;4;[Arqueiro];5;10;0;0;0
+ConsumivelCombate;Granada de Mao;10;[Cavaleiro,Arqueiro];0;0;30;0;0
+ConsumivelCombate;Avada Kedavra;25;[Feiticeiro];0;0;200;0;0
+Pocao;Vinho do Porto;5;[Cavaleiro,Arqueiro,Feiticeiro];0;0;0;8;15
+Pocao;Injecao força;8;[Cavaleiro,Arqueiro,Feiticeiro];0;0;0;0;25
+Pocao;Poção curativa;7;[Cavaleiro,Arqueiro,Feiticeiro];0;0;0;25;5
+Pocao;Injecao Adrenalina;18;[Cavaleiro,Arqueiro];0;0;0;-15;15
+Pocao;Injecao Poderosa;28;[Cavaleiro,Arqueiro];0;0;0;5;30
+ConsumivelCombate;Feitiço Poderoso;25;[Feiticeiro];0;0;250;0;0
+ArmaPrincipal;Espada do inifinito;5;[Cavaleiro];35;75;0;0;0
+ArmaPrincipal;cajado;5;[Feiticeiro];20;35;0;0;0
+ArmaPrincipal;Arco;4;[Arqueiro];25;50;0;0;0
+ArmaPrincipal;Martelo do Thor;4;[Cavaleiro];45;90;0;0;0
+Pocao;Poção SuperBock;30;[Cavaleiro,Arqueiro,Feiticeiro];0;0;0;100;50
